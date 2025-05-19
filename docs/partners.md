@@ -26,4 +26,4 @@ nav_order: 5
 
 > 파트너 제안을 원하시면 아래 연락처로 문의 주세요.
 
-[문의하기](./contact.md) {: .btn .btn-primary }
+[문의하기](./contact.md)
