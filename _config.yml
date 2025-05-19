@@ -1,0 +1,27 @@
+# -- 기본 설정 -------------------------------------------------
+# 사이트 제목과 설명
+
+title: Softwalk
+subtitle: "시니어의 경험을 디지털로 연결하다"
+description: "중장년 디지털 전환을 위한 소프트웨어 일자리 플랫폼"
+
+# GitHub Pages remote theme
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+
+markdown: kramdown
+
+# 네비게이션 순서(front-matter nav_order 사용)
+# docs/ 디렉터리 아래 Markdown 파일만 사이트에 노출
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+# 사이트 상단 보조 링크(example)
+just_the_docs:
+  aux_links:
+    회사소개: https://example.com  # 실제 회사 소개 페이지 URL 로 교체
+  search_enabled: true
