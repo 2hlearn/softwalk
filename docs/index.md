@@ -10,4 +10,4 @@ nav_order: 1
 
 > 50대 이후, 평균 17년의 새로운 일과 삶이 남아 있습니다. Softwalk 는 그 길을 기술과 사람, 그리고 커뮤니티로 연결합니다.
 
-[플랫폼 구조 살펴보기](./platform.md) {: .btn .btn-primary }
+[플랫폼 구조 살펴보기](./platform.md)
