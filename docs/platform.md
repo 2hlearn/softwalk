@@ -30,4 +30,4 @@ Softwalk 는 **교육(Onboarding) → 실전 프로젝트(Project) → 커뮤니
 | **Continuity** | 단기 부트캠프가 아닌 학기제·레벨제 지속 성장 |
 | **Community** | 배움 → 실전 → 멘토링으로 이어지는 선순환 |
 
-[프로그램 살펴보기](./programs.md) {: .btn }
+[프로그램 살펴보기](./programs.md)
