@@ -6,7 +6,7 @@ nav_order: 2
 
 # Softwalk 플랫폼 구조
 
-![Platform diagram](https://via.placeholder.com/1000x400?text=Platform+Diagram)
+![Platform diagram](./softalk-flow.jpg)
 
 Softwalk 는 **교육(Onboarding) → 실전 프로젝트(Project) → 커뮤니티(Community)** 로 이어지는 3단계 순환 구조를 갖습니다.
 
