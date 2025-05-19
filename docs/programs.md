@@ -33,4 +33,4 @@ Softwalk 는 시장 수요가 높고 시니어 강점이 발휘되는 **DEV · Q
 
 *학습자는 트랙 변경·복합 이수가 가능하며, 평균 2년(4학기) 이내 주니어 수준 역량을 확보합니다.*
 
-[커리큘럼 예시](./curriculum/) {: .btn .btn-outline }
+[커리큘럼 예시](curriculum.md) {: .btn .btn-outline }
