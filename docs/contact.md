@@ -6,7 +6,7 @@ nav_order: 6
 
 # 문의 & 참가 신청
 
-* **이메일** : hello@softwalk.kr
+* **이메일** : operations@2hlearn.com
 * **전화** : +82-2-000-0000 (평일 10:00-17:00)
 * **온라인 폼** : <https://forms.gle/softwalk-apply>
 
