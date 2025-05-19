@@ -29,4 +29,4 @@ nav_order: 4
 * 모듈·과정 이수 시 OpenBadge 발급 → 역량·신뢰 시각화
 * 기업·기관은 배지를 통해 인재 스킬셋을 손쉽게 검증
 
-[파트너십](./partners.md) {: .btn }
+[파트너십](./partners.md)
