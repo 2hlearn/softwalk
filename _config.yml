@@ -2,8 +2,8 @@
 title: Softwalk
 subtitle: "시니어의 경험을 디지털로 연결하다"
 description: "중장년 디지털 전환을 위한 소프트웨어 일자리 플랫폼"
-url: "https://2hlearn.github.io" # 실제 도메인으로 나중에 수정 가능
-baseurl: "" # 독립된 도메인 사용 시 비워둠
+url: "https://www.2hcube.com"
+baseurl: "/softwalk"
 
 # GitHub Pages remote theme
 remote_theme: mmistakes/minimal-mistakes
