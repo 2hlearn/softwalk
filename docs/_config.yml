@@ -6,12 +6,13 @@ url: "https://www.2hcube.com"
 baseurl: "/softwalk"
 
 # 테마 설정
-remote_theme: jekyll/minima
-# minimal_mistakes_skin: "air" # Minima에는 필요 없는 설정
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: "air"
 
 # 빌드 설정 (최대한 단순하게)
 plugins:
   - jekyll-remote-theme
+  - jekyll-include-cache
   - jekyll-seo-tag
   - jekyll-feed
 
