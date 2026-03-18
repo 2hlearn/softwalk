@@ -1,7 +1,7 @@
 ---
-layout: default
-title: 소개
-nav_order: 1
+layout: home
+title: 홈
+excerpt: "시니어의 경험을 디지털로 연결하다"
 ---
 
 # Softwalk – 시니어의 새로운 디지털 커리어 여정
@@ -11,3 +11,7 @@ nav_order: 1
 > 50대 이후, 평균 17년의 새로운 일과 삶이 남아 있습니다. Softwalk 는 그 길을 기술과 사람, 그리고 커뮤니티로 연결합니다.
 
 [플랫폼 구조 살펴보기](./platform.md)
+
+---
+[← 투에이치큐브(2hcube.com) 돌아가기](https://www.2hcube.com)
+

@@ -1,12 +1,13 @@
 ---
-layout: default
-title: 플랫폼 철학
-nav_order: 2
+layout: single
+title: 플랫폼 구조
+sidebar:
+  nav: "main"
 ---
 
 # Softwalk 플랫폼 구조
 
-![Platform diagram](softwalk-flow.jpg)
+![Softwalk 플랫폼 구조](/softwalk/assets/images/softwalk-flow.jpg)
 
 Softwalk 는 **교육(Onboarding) → 실전 프로젝트(Project) → 커뮤니티(Community)** 로 이어지는 3단계 순환 구조를 갖습니다.
 

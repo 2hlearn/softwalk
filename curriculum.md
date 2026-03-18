@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: single
 title: 커리큘럼
-nav_order: 4
+sidebar:
+  nav: "main"
 ---
 
 # DEV 코스 – 13주 예시

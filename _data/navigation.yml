@@ -1,0 +1,17 @@
+main:
+  - title: "홈"
+    url: /
+  - title: "소개"
+    url: /about/
+  - title: "플랫폼"
+    url: /platform/
+  - title: "프로그램"
+    url: /programs/
+  - title: "커리큘럼"
+    url: /curriculum/
+  - title: "파트너"
+    url: /partners/
+  - title: "스크랩/뉴스"
+    url: /scraps/
+  - title: "문의"
+    url: /contact/

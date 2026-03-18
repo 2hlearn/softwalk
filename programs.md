@@ -1,7 +1,8 @@
 ---
-layout: default
-title: 프로그램
-nav_order: 3
+layout: single
+title: 프로그램 안내
+sidebar:
+  nav: "main"
 ---
 
 # 3대 직무 트랙

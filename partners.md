@@ -1,7 +1,8 @@
 ---
-layout: default
-title: 파트너십 & 생태계
-nav_order: 5
+layout: single
+title: 파트너십
+sidebar:
+  nav: "main"
 ---
 
 # 함께 만드는 선순환 생태계

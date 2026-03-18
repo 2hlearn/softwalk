@@ -1,7 +1,8 @@
 ---
-layout: default
-title: 문의
-nav_order: 6
+layout: single
+title: 문의하기
+sidebar:
+  nav: "main"
 ---
 
 # 문의 & 참가 신청
