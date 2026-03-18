@@ -3,6 +3,7 @@ layout: single
 title: 프로그램 안내
 sidebar:
   nav: "main"
+permalink: /programs/
 ---
 
 # 3대 직무 트랙

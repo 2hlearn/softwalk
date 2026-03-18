@@ -3,6 +3,7 @@ layout: single
 title: 커리큘럼
 sidebar:
   nav: "main"
+permalink: /curriculum/
 ---
 
 # DEV 코스 – 13주 예시

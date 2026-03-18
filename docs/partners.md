@@ -3,6 +3,7 @@ layout: single
 title: 파트너십
 sidebar:
   nav: "main"
+permalink: /partners/
 ---
 
 # 함께 만드는 선순환 생태계

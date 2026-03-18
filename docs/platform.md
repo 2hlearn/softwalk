@@ -3,6 +3,7 @@ layout: single
 title: 플랫폼 구조
 sidebar:
   nav: "main"
+permalink: /platform/
 ---
 
 # Softwalk 플랫폼 구조

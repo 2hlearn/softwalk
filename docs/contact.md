@@ -3,6 +3,7 @@ layout: single
 title: 문의하기
 sidebar:
   nav: "main"
+permalink: /contact/
 ---
 
 # 문의 & 참가 신청
