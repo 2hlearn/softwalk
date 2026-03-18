@@ -5,9 +5,9 @@ description: "중장년 디지털 전환을 위한 소프트웨어 일자리 플
 url: "https://www.2hcube.com"
 baseurl: "/softwalk"
 
-# theme: jekyll-theme-cayman # 테스트용 표준 테마
-remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: "air"
+# 테마 설정
+remote_theme: jekyll/minima
+# minimal_mistakes_skin: "air" # Minima에는 필요 없는 설정
 
 # 빌드 설정 (최대한 단순하게)
 plugins:
